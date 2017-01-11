@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 //Ekatehtävä 11.1.2017
+//toinen muutos kommenttiin jepa
 namespace ConsoleApplication1
 {
     class Program
